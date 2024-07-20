@@ -6,7 +6,7 @@ I'm Mahnoor Qamar, a Software Developer with expertise in Python, Java, and Full
 
 
 <a href="https://www.linkedin.com/in/mahnoorqamar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mahnoor.qamar1//" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/mahnoor.qamar1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://x.com/MahnoorQamar5" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=X&logoColor=Black" alt="X"></a>
 
 

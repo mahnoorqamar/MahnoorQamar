@@ -5,16 +5,11 @@
 I'm Mahnoor Qamar, a Software Developer with expertise in Python, Java, and Full Stack Development. I work with HTML, CSS, JavaScript, SQL, and NoSQL databases, specializing in integrating APIs and creating reliable software solutions. Currently, I'm focused on mastering Data Structures and Algorithms (DSA) and honing my System Design skills to strengthen my technical capabilities. I'm eager to apply my knowledge and contribute effectively to impactful projects.
 
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWYfNJLV7OBMA" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/dhanushkadev" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 ---
 
@@ -41,35 +36,47 @@ I'm Mahnoor Qamar, a Software Developer with expertise in Python, Java, and Full
 
 ### 🚴‍♀️ Latest Projects
 
-### Projects:
+<!-- BEGIN Project-CARDS -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+    <div>
+        <a href="https://www.mirakmedia.com/">
+            <img src="https://media.licdn.com/dms/image/D5622AQGRM_DMJ2QfeQ/feedshare-shrink_800/0/1721390982775?e=1724284800&v=beta&t=UAsyz-B7bQU5RrjO7QgQZFpDg_ZakXRF03w7v7h-lmw" alt="MIRAK MEDIA" style="max-width: 100%; border-radius: 5px;">
+            <p style="text-align: center; margin-top: 10px;">MIRAK MEDIA company portfolio website</p>
+        </a>
+    </div>
+    <div>
+        <a href="https://www.darjionline.com/">
+            <img src="https://static.wixstatic.com/media/7fc756_0fa3c21db3b6411891ddd3f251db15d3~mv2.jpg/v1/fill/w_1903,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7fc756_0fa3c21db3b6411891ddd3f251db15d3~mv2.jpg" alt="DARJI ONLINE" style="max-width: 100%; border-radius: 5px;">
+            <p style="text-align: center; margin-top: 10px;">DARJI ONLINE ecommerce Platform</p>
+        </a>
+    </div>
+    <div>
+        <a href="https://www.dgsajmer.org.in/">
+            <img src="https://pbs.twimg.com/profile_images/1588136208823390208/WTQ869LJ_400x400.jpg" alt="DGS NGO" style="max-width: 100%; border-radius: 5px;">
+            <p style="text-align: center; margin-top: 10px;">DGS NGO website</p>
+        </a>
+    </div>
+    <div>
+        <a href="https://5af282-8e.myshopify.com/">
+            <img src="link_to_shibhumi_craft_image" alt="shibhumi craft" style="max-width: 100%; border-radius: 5px;">
+            <p style="text-align: center; margin-top: 10px;">shibhumi craft website</p>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/mahnoorqamar/WeatherAPI">
+            <img src="link_to_weather_api_image" alt="Weather API" style="max-width: 100%; border-radius: 5px;">
+            <p style="text-align: center; margin-top: 10px;">Weather API - GitHub Repository</p>
+        </a>
+    </div>
+</div>
+<!-- END Project-CARDS -->
 
-1. [MIRAK MEDIA company portfolio website](https://www.mirakmedia.com/)
-   ![MIRAK MEDIA](link_to_image)
-   - Title: MIRAK MEDIA company portfolio website
-
-2. [DARJI ONLINE ecommerce Platform](https://www.darjionline.com/)
-   ![DARJI ONLINE](link_to_image)
-   - Title: DARJI ONLINE ecommerce Platform
-
-3. [DGS NGO website](https://www.dgsajmer.org.in/)
-   ![DGS NGO](link_to_image)
-   - Title: DGS NGO website
-
-4. [shibhumi craft website](https://5af282-8e.myshopify.com/)
-   ![shibhumi craft](link_to_image)
-   - Title: shibhumi craft website
-
-5. Weather API - [GitHub Repository](https://github.com/mahnoorqamar/WeatherAPI)
-   - Title: Weather API
-
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 
 ### 📊 Stats
 
-![Mahnoor GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+<img src="https://myreadme.vercel.app/api/embed/mahnoorqamar?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 #

@@ -37,35 +37,40 @@ I'm Mahnoor Qamar, a Software Developer with expertise in Python, Java, and Full
 ### 🚴‍♀️ Latest Projects
 
 <!-- BEGIN Project-CARDS -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-    <div>
-        <a href="https://www.mirakmedia.com/">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    <div style="max-width: 250px;">
+        <a href="https://www.mirakmedia.com/" style="display: block; text-align: center;">
             <img src="https://media.licdn.com/dms/image/D5622AQGRM_DMJ2QfeQ/feedshare-shrink_800/0/1721390982775?e=1724284800&v=beta&t=UAsyz-B7bQU5RrjO7QgQZFpDg_ZakXRF03w7v7h-lmw" alt="MIRAK MEDIA" style="max-width: 100%; border-radius: 5px;">
-            <p style="text-align: center; margin-top: 10px;">MIRAK MEDIA company portfolio website</p>
+            <p style="margin-top: 10px; color: #333; font-weight: bold;">MIRAK MEDIA</p>
+            <p style="font-size: 14px;">company portfolio website</p>
         </a>
     </div>
-    <div>
-        <a href="https://www.darjionline.com/">
+    <div style="max-width: 250px;">
+        <a href="https://www.darjionline.com/" style="display: block; text-align: center;">
             <img src="https://static.wixstatic.com/media/7fc756_0fa3c21db3b6411891ddd3f251db15d3~mv2.jpg/v1/fill/w_1903,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7fc756_0fa3c21db3b6411891ddd3f251db15d3~mv2.jpg" alt="DARJI ONLINE" style="max-width: 100%; border-radius: 5px;">
-            <p style="text-align: center; margin-top: 10px;">DARJI ONLINE ecommerce Platform</p>
+            <p style="margin-top: 10px; color: #333; font-weight: bold;">DARJI ONLINE</p>
+            <p style="font-size: 14px;">ecommerce Platform</p>
         </a>
     </div>
-    <div>
-        <a href="https://www.dgsajmer.org.in/">
+    <div style="max-width: 250px;">
+        <a href="https://www.dgsajmer.org.in/" style="display: block; text-align: center;">
             <img src="https://pbs.twimg.com/profile_images/1588136208823390208/WTQ869LJ_400x400.jpg" alt="DGS NGO" style="max-width: 100%; border-radius: 5px;">
-            <p style="text-align: center; margin-top: 10px;">DGS NGO website</p>
+            <p style="margin-top: 10px; color: #333; font-weight: bold;">DGS NGO</p>
+            <p style="font-size: 14px;">website</p>
         </a>
     </div>
-    <div>
-        <a href="https://5af282-8e.myshopify.com/">
+    <div style="max-width: 250px;">
+        <a href="https://5af282-8e.myshopify.com/" style="display: block; text-align: center;">
             <img src="link_to_shibhumi_craft_image" alt="shibhumi craft" style="max-width: 100%; border-radius: 5px;">
-            <p style="text-align: center; margin-top: 10px;">shibhumi craft website</p>
+            <p style="margin-top: 10px; color: #333; font-weight: bold;">shibhumi craft</p>
+            <p style="font-size: 14px;">website</p>
         </a>
     </div>
-    <div>
-        <a href="https://github.com/mahnoorqamar/WeatherAPI">
+    <div style="max-width: 250px;">
+        <a href="https://github.com/mahnoorqamar/WeatherAPI" style="display: block; text-align: center;">
             <img src="link_to_weather_api_image" alt="Weather API" style="max-width: 100%; border-radius: 5px;">
-            <p style="text-align: center; margin-top: 10px;">Weather API - GitHub Repository</p>
+            <p style="margin-top: 10px; color: #333; font-weight: bold;">Weather API</p>
+            <p style="font-size: 14px;">GitHub Repository</p>
         </a>
     </div>
 </div>

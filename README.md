@@ -2,7 +2,7 @@
 
 **`Software Developer (Designer/Creator/Full Stack/)`**
 
-I'm Mahnoor Qamar, a Software Developer with expertise in Python, Java, and Full Stack Development. I work with HTML, CSS, JavaScript, SQL, and NoSQL databases, specializing in integrating APIs and creating reliable software solutions. Currently, I'm focused on mastering Data Structures and Algorithms (DSA) and honing my System Design skills to strengthen my technical capabilities. I'm eager to apply my knowledge and contribute effectively to impactful projects.
+I'm Mahnoor Qamar, a Software Developer with expertise in Python, Java, and MERN Stack Development. I work with HTML, CSS, JavaScript, SQL, React, Node.js, MongoDB, and NoSQL databases, specializing in integrating APIs and creating reliable software solutions. Currently, I'm focused on mastering Data Structures and Algorithms (DSA) and honing my System Design and DevOps skills to strengthen my technical capabilities. I'm eager to apply my knowledge and contribute effectively to impactful projects.
 
 
 <a href="https://www.linkedin.com/in/mahnoorqamar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
